@@ -58,6 +58,7 @@ header{
     width:fit-content;
     max-width:25%;
     font-size:20px;
+    text-align: justify;
 }
 
 .cat{
